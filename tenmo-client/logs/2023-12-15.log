@@ -1,0 +1,10 @@
+2023-12-15T16:19:30.9690972 500 : [{"timestamp":"2023-12-15T21:19:30.937+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-15T16:34:58.1274888 401 : [no body]
+2023-12-15T16:35:52.0213559 401 : [no body]
+2023-12-15T16:36:03.727798 401 : [no body]
+2023-12-15T16:39:15.9041645 401 : [no body]
+2023-12-15T16:39:23.212062 401 : [no body]
+2023-12-15T18:03:19.6125025 401 : [no body]
+2023-12-15T18:15:49.6312112 401 : [no body]
+2023-12-15T20:23:35.9891574 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-15T21:20:52.8719912 401 : [no body]
